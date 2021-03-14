@@ -1,0 +1,9 @@
+Week -3: Bitwise Operators and Logical Expression.
+
+1) Write a C program to perform left (<<) and right(>>) shit Bitwise operation. 
+
+2) Write a C program to evaluate the logical expression 
+    (a & b), (a|b), (a^c), (~a)
+
+3) Write a C program to evaluate the logical expression
+   (a==b) (a>b) (a<b)(a>=b)(a<=b)(a!=b)

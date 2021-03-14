@@ -1,0 +1,12 @@
+Week -2: Operators and Expression.
+
+1)  Write a C program to perform the addition/subtraction/
+    multiplication/division/modulus of two numbers using +,-,*,/ and % operator. 
+
+2) Write a C program to evaluate the arithmetic expression 
+    ((a + b / c * d - e) * (f - g)). 
+    Read the values a, b, c, d, e, f, g from the standard input device. 
+
+3) Write a C program to read the values of x and y 
+    and print the results of the following expressions in one line:
+    i. (x + y) / (x - y) ii. (x + y)(x - y)
