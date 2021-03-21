@@ -1,0 +1,26 @@
+When a user presses a keyboard, sometimes it requires understanding whether 
+a numerical digit is pressed or a character. Specifically, hackers use this 
+kind of approach to steal user passwords and credentials. This type of program 
+is also known as a keylogger. Write a program that works as a keylogger to 
+identify whether a number or alphabet is pressed on the keyboard.
+
+Input Format: 
+
+Just a single keyboard press of any digit, symbol or letter.
+
+Output Format: 
+
+print Digit if a digit is pressed
+print Alphabet if a alphabet is pressed
+print Non-Digit/Non-Alphabet if anything pressed other than digit or alphabet.
+
+Sample Input/Output
+
+Input :1
+Output: Digit
+
+Input : 'A'
+Output: Alphabet
+
+Input: *
+Output: Non-Digit/Non-Alphabet

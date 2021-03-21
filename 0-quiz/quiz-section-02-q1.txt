@@ -1,0 +1,19 @@
+Recently many automated grammar checker tools have been 
+developed for assisting writers to locate grammatical 
+errors in their writing.
+
+Suppose you are going to develop a simple feature that 
+will put an article (a/an) before any word which starts 
+with a vowel.  Now write a program that takes the first 
+character of a word as input and shows the output that 
+it requires an article.
+
+
+1) Sample Input: 'a'
+Sample Output: Requires Article 'An'.
+
+2) Sample Input: 'j'
+Sample Output: Requires Article 'A'.
+
+3) Sample Input: 'E'
+Sample Output: Requires Article 'An'.

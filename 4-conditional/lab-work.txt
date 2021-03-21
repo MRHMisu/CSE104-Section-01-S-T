@@ -7,3 +7,7 @@ Week -3: Use of Constant, Conditional Statement
 2) Write a program that calculate the area of circle for a given redius.
 
 3) Write a program that identify a give number as odd or even
+
+4) 4) Write a program that takes 3 inputs 
+    i) two numbers and one char (+,-,*,/)
+    depending on the user input it perform the operation.

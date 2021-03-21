@@ -1,0 +1,24 @@
+Suppose you got a magic wallet that makes the money double each day. 
+You have 10 Taka on Saturday and it will become 640 Taka next Friday 
+(after 6 days).
+
+For example: 
+    Saturday=10;
+    Sunday=10*2=20
+    Monday=20*2=40
+    Tuesday=40*2=80
+    Wednesday=80*2=160
+    Thursday=160*2=320
+    Friday=320*2=640
+
+Now write a program that takes two inputs, first the money 
+you put into the wallet on the first day, and the number of days 
+you want to keep that money into this wallet. 
+
+The output will show the total amount of money the wallet will contain at the end of the given day.
+
+1) Sample Input: 10 6
+Sample Output: 640
+
+2) Sample Input: 345 5
+Sample Output: 11040
