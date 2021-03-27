@@ -4,12 +4,12 @@ You have 10 Taka on Saturday and it will become 640 Taka next Friday
 
 For example: 
     Saturday=10;
-    Sunday=10*2=20
-    Monday=20*2=40
-    Tuesday=40*2=80
-    Wednesday=80*2=160
-    Thursday=160*2=320
-    Friday=320*2=640
+    Sunday=10*2=20-> 10*2
+    Monday=20*2=40 -> 10*4
+    Tuesday=40*2=80-> 10*8
+    Wednesday=80*2=160 -> 10 *16
+    Thursday=160*2=320 -> 10*32
+    Friday=320*2=640 -> 10*64
 
 Now write a program that takes two inputs, first the money 
 you put into the wallet on the first day, and the number of days 
@@ -22,3 +22,5 @@ Sample Output: 640
 
 2) Sample Input: 345 5
 Sample Output: 11040
+
+
