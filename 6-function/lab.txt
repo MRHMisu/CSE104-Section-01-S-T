@@ -1,0 +1,17 @@
+Lab Works- Function and Variable Scoping
+
+1) Function Declaration and Calling
+2) Global Variable 
+3) Local varibales
+4) Static varibles
+5) Global vs Constant
+6) Global vs Local vs Static
+7) Use of UNICODE 
+
+
+
+// f(x)=x^2 -> f(4)-> 4^2
+// f(x,y)=x^2+y^2 f(3,4)-> 3^2+4^2
+// x, y treated as parameters and 3,4 treated as arguments
+// int calculate(int value_1, int value_2);// prototype
+            // value_1, value_2 treated as parameters
