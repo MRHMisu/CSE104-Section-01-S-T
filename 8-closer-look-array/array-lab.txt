@@ -1,0 +1,5 @@
+Lab Work: Array
+
+1) Given a set of numbers (user given), identify MAX and MIN element.
+2) Reverse an array into another array
+3) Given two 2x2 Matrix A and B. Find A+B and A-B;
