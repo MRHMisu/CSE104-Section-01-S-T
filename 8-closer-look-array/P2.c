@@ -3,30 +3,26 @@
 
 int main()
 {
+    int numbers[5]={23,34,54,65,87};
+    int reverse_numbers[5];//{87,65,54,34,23}
+    // for copying // left->right start++
+    // reverse // right-> left end --
+   int start=0;
+    int end=4;
+   while (start<5)
+   {
+       reverse_numbers[start]=numbers[end];
+       // reverse_numbers[0]=numbers[4];
+       // reverse_numbers[1]=numbers[3];
+       // reverse_numbers[2]=numbers[2];
+       // reverse_numbers[3]=numbers[1];
+      // reverse_numbers[4]=numbers[0];
+       start++;
+       end--; 
+   }
+
+   
     
-    int numbers[10]={11,22,33,44,65,46,27,18,19,110};
-    // counter-> right-> left (9-0)
-    int end=9;
-    
-    int reverse_numbers[10];// 
-    // counter-> left->right (0-9)
-    int start=0;
-    while (start<=9)
-    {
-        reverse_numbers[start]=numbers[end];
-        // step 1-reverse_numbers[0]=numbers[9]
-        // step 2-reverse_numbers[1]=numbers[8]
-        // step 3-reverse_numbers[2]=numbers[7]
-        start++;
-        end--;
-        
-    }
-
-    for(int i=0; i<10; i++){
-
-        printf("%d ", reverse_numbers[i]);
-
-    }
     
 
 

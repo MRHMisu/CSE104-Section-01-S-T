@@ -1,0 +1,1 @@
+0 meanse two strings are equal

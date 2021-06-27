@@ -1,0 +1,33 @@
+In computing, digital images are represented as a matrix of bits in pixel format. 
+To compare images their corresponding bit matrixes are used to determine whether 
+the images are identical or different. Your task is given two-bit matrix of two images, 
+identify whether those images are identical or different.
+
+
+Input: two (3x3) Matrix
+
+Output: Identical or Different
+
+Sample Input: 
+
+Enter 1st Image: 
+1 1 1
+1 1 1
+1 1 1
+Enter 2nd Image: 
+1 1 1
+1 1 1
+1 1 1
+
+Sample Output: Identical
+
+Sample Input: 
+Enter 1st Image: 
+1 1 0
+1 0 1
+0 1 1
+Enter 2nd Image: 
+1 1 1
+1 1 1
+1 1 1
+Sample Output: Different

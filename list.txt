@@ -1,0 +1,13 @@
+0-quiz
+00-Quiz-02
+1-io
+10-sort-search
+2-operator
+3-logical-bitwise
+4-conditional
+5-loop
+6-function
+7-array-string
+8-closer-look-array
+9-pointer
+list.txt

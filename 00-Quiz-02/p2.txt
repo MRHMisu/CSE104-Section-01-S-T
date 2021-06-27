@@ -1,0 +1,18 @@
+In standard writing test like in IELTS or TOFFEL, it is a common practice to write 
+a response to a task within a word limit. For instance, 
+write an essay on C programming within 250 words minimum.  
+Therefore, it requires identifying the number of words in a given text 
+to assess the written text. So, your task is to write a program that 
+takes a text as input and compute the number of words written in the text.
+
+
+
+Input: 10< characters-in-text < 1000
+
+Output: number of words
+
+Sample Input: I hate coding.
+Sample Output: 3 Words
+
+Sample Input: Teach yourself C Programming.
+Sample output: 4 Words
